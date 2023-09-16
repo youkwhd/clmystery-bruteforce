@@ -1,0 +1,17 @@
+clmystery-bruteforce
+====================
+
+bruteforcer to find the answer of clmystery game from
+
+    https://github.com/veltman/clmystery 
+
+Usage
+-----
+
+Exits on the first correct answer:
+
+    ./bruteforce.sh -e
+
+Or, check every person:
+    
+    ./bruteforce.sh | grep FOUND:
