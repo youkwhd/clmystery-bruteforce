@@ -1,9 +1,11 @@
 clmystery-bruteforce
 ====================
 
-bruteforcer to find the answer of clmystery game from
+Bruteforcer to find the answer of clmystery game from
 
     https://github.com/veltman/clmystery 
+
+Keep in mind that this does not use any threads, thus being slow.
 
 Usage
 -----
