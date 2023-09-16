@@ -12,7 +12,7 @@ Usage
 
 Exits on the first correct answer:
 
-    ./bruteforce.sh -e
+    ./bruteforce.sh -a
 
 Or, check every person:
     
